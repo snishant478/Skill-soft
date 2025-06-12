@@ -1,0 +1,20 @@
+Course Explorer UI 
+Type: Frontend (React) 
+Estimated Time: 2 hours 
+Target Roles: SE II / SSE, Frontend Developers 
+ 
+Instructions 
+• • Build a responsive React app to display a list of courses with filtering by tags. 
+• • Use mock JSON data (title, description, tags). 
+• • Display tags as checkboxes or buttons. 
+• • Use a 3-column grid layout. 
+• • Bonus: Allow 'favorite' toggling and sorting. 
+ 
+Evaluation Criteria (Rubric) 
+- Solution Completeness 
+- JS Knowledge 
+- React Component Structure 
+- CSS Layout 
+- Code Quality 
+- Communication 
+- Autonomy
