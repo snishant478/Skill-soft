@@ -8,7 +8,7 @@ Instructions
 • • Use mock JSON data (title, description, tags). 
 • • Display tags as checkboxes or buttons. 
 • • Use a 3-column grid layout. 
-• • Bonus: Allow 'favorite' toggling and sorting. 
+• • Bonus: Allow 'favorite' toggling and sorting. // sorting based on name
  
 Evaluation Criteria (Rubric) 
 - Solution Completeness 
